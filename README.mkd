@@ -1,0 +1,48 @@
+OpenXC Retro Gauge
+====================
+
+The Retro Gauge is a mechanical vehicle gauge that displays data received over a
+serial communication line. One possible use of the gauge is to display vehicle
+data from the [OpenXC platform][openxc].
+
+The design intent was to keep the gauge
+as open and accessible as possible so that the community could contribute and
+benefit from the design.
+
+For more details on the project, visit the [project page on the OpenXC
+website](http://openxcplatform.com/hardware-addons/retro-gauge.html).
+
+For an instructional lab on how to build the gauge, see the [Retro Gauge
+Lab](http://retro-gauge-lab.openxcplatform.com/).
+
+## Retro Gauge Electrical Schematics and PCB Layout
+
+TODO say something about these files
+
+## Resources
+
+This repository is one of 4 repositories listed below:
+
+**Mechanical Enclosure Design** - The
+[retro-gauge-enclosure](http://github.com/openxc-retro-gauge/retro-gauge-enclosure)
+repository contains .STL and STEP files for the 3D printable gauge housing.
+
+**Hardware** - The
+[retro-gauge-hardware](http://github.com/openxc-retro-gauge/retro-gauge-hardware)
+repository contains Eagle schematics and PCB layouts for the gauge's embedded
+hardware.
+
+**Firmware** - The
+[retro-gauge-firmware](http://github.com/openxc-retro-gauge/retro-gauge-firmware)
+repository contains Arduino source code to run on the Retro Gauge.
+
+**Android** - The
+[retro-gauge-android](http://github.com/openxc-retro-gauge/retro-gauge-android)
+repository contains an Android application to control the gauge with vehicle
+data from the [OpenXC platform][openxc].
+
+## License
+
+The designs in this repository are available under the [Creative Commons
+Atribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/deed.en_US)
+license.
