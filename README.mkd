@@ -19,6 +19,9 @@ Lab](http://retro-gauge-lab.openxcplatform.com/).
 
 TODO say something about these files
 
+* [Stepper Motor
+  datasheet](http://guy.carpenter.id.au/gaugette/resources/vid/20091026113525_VID29_manual_EN-080606.pdf)
+
 ## Resources
 
 This repository is one of 4 repositories listed below:
